@@ -137,7 +137,7 @@ Sometimes, we want to take a function, associate it to a _context_ and return a
 
 Once we have the "_context_-bound" version of the function we can call it with
 `(arguments, arguments, ...)` or `call()` or `apply()` without having to
-manually set the context. Let's see it in action.
+manually set the context. Let's see it in actio.
 
 ```js
 let sally = { name: 'Sally' };
